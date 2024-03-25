@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Mohammadhasan14
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Full Stack 
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through my Email Id: mohdhasan7867214@gmail.com
+- 👋 Hi, I’m Mohammad Hasan.
+
+- 👨‍💻 Full Stack Developer | MERN Stack Specialist
+
+- 🌱 1.5 years of hands-on experience crafting robust web applications.
+
+- 💼 Open to collaboration on innovative web projects.
+
+- 📧 Let's connect: mohdhasan7867214@gmail.com
 
 <!---
 Mohammadhasan14/Mohammadhasan14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
