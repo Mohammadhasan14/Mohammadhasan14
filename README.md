@@ -4,7 +4,7 @@
 
 - 🌱 1.5 years of hands-on experience crafting robust web applications and mobile applications.
 
-- 💼 Open to collaboration on innovative web projects.
+- 💼 Open to collaboration on innovative projects.
 
 - 📧 Let's connect: mohdhasan7867214@gmail.com
 
