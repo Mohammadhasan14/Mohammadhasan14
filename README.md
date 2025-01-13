@@ -2,7 +2,7 @@
 
 - 👨‍💻 Full Stack Developer | Specialist in MERN Stack and React Native
 
-- 🌱 2.1 years of hands-on experience developing robust web and mobile applications.
+- 🌱 2.4 years of hands-on experience developing robust web and mobile applications.
 
 - 💼 Open to collaboration on innovative projects.
 
