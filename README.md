@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Hasan Abbas.
 
-- 👨‍💻 Full Stack Developer | Specialist in MERN Stack and React Native
+- 👨‍💻 Full Stack Developer | Specialist in MERN Stack, React Native and Shopify app development
 
 - 🌱 3 years of hands-on experience developing robust web and mobile applications.
 
